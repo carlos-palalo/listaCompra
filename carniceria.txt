@@ -1,4 +1,6 @@
 lomo
-filete
+jamon
 pavo
 hamburguesa
+salchichas
+chuletas
